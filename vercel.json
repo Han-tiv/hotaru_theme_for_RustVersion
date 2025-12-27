@@ -2,23 +2,23 @@
     "routes": [
         {
             "src": "/json/stats.json",
-            "dest": "http://23.27.11.181:8089/json/stats.json"
+            "dest": "http://158.179.178.56:8089/json/stats.json"
         },
         {
             "src": "/detail",
-            "dest": "http://23.27.11.181:8089/detail"
+            "dest": "http://158.179.178.56:8089/detail"
         },
         {
             "src": "/map",
-            "dest": "http://23.27.11.181:8089/map"
+            "dest": "http://158.179.178.56:8089/map"
         },
         {
             "src": "/i",
-            "dest": "http://23.27.11.181:8089/i"
+            "dest": "http://158.179.178.56:8089/i"
         },
         {
             "src": "/report",
-            "dest": "http://23.27.11.181:8089/report"
+            "dest": "http://158.179.178.56:8089/report"
         }
     ]
 }
